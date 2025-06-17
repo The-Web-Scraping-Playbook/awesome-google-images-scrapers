@@ -24,7 +24,7 @@ Perfect for:
 ---
 
 ## 🧠 Google-Images OpsKit
-> Find out everything you need to know to reliably scrape Google-Images with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/google-images)
+> Find out everything you need to know to reliably scrape Google-Images with our new tool: [Ops Kit](https://scrapeops.io/websites/google-images)
 
 This kit provides the blueprint for Google-Images scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
@@ -137,7 +137,7 @@ This kit provides the blueprint for Google-Images scraping operations:
 ---
 
 ## 🧠 Google-Images Tutorials & How-Tos<a id="google-images-tutorials"></a>
-- 📘 [How to Scrape Google-Images at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-google-images/)
+- 📘 [How to Scrape Google-Images at Scale](https://scrapeops.io/websites/google-images/how-to-scrape-google-images)
 - 🔐 [Web Scraping Google-Images Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
 - 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
